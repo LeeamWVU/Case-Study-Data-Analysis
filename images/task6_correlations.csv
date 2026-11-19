@@ -1,0 +1,21 @@
+year,pair,pearson,spearman,kendall
+2015,score & generosity,0.18,0.172,0.113
+2015,freedom & generosity,0.374,0.418,0.283
+2015,gdp & corruption,0.308,0.228,0.143
+2015,gdp & freedom,0.37,0.415,0.286
+2016,score & generosity,0.157,0.149,0.097
+2016,freedom & generosity,0.362,0.401,0.274
+2016,gdp & corruption,0.294,0.223,0.143
+2016,gdp & freedom,0.362,0.397,0.278
+2017,score & generosity,0.155,0.136,0.086
+2017,freedom & generosity,0.316,0.35,0.235
+2017,gdp & corruption,0.351,0.246,0.158
+2017,gdp & freedom,0.37,0.407,0.282
+2018,score & generosity,0.136,0.112,0.072
+2018,freedom & generosity,0.298,0.348,0.239
+2018,gdp & corruption,0.32,0.243,0.156
+2018,gdp & freedom,0.332,0.368,0.257
+2019,score & generosity,0.076,0.07,0.044
+2019,freedom & generosity,0.27,0.324,0.226
+2019,gdp & corruption,0.299,0.223,0.135
+2019,gdp & freedom,0.379,0.393,0.271
