@@ -17,16 +17,16 @@ Column names differ between years, so they were renamed to a common set (score, 
 ## Answers
 
 **1. Distribution of the happiness score** (`images/task1_score_hist_*.png`)
-[Describe the shape you see: for example, roughly bell-shaped or skewed, where most scores fall, and whether it looks similar across the five years.]
+A Medium Happiness score was pretty across the board every year.
 
 **2. GDP per Capita vs Health** (`images/task2_gdp_health_*.png`)
-[Describe the relationship you see: for example, a clear positive relationship where richer countries tend to have higher life expectancy scores. Mention one or two outliers if you notice any.]
+The healither the more capita.
 
 **3. Freedom vs Generosity** (`images/task3_freedom_generosity_*.png`)
-[Describe it: the correlations below are moderate and positive, so the points should show a loose upward trend with a lot of scatter.]
+Mynamar has a high generosity. But it seemed that it went up as the freedom went up.
 
 **4. GDP per Capita, Corruption and Generosity in 3D** (`images/task4_3d_*.png`)
-[Describe what you see: for example, countries with higher GDP tend to have higher corruption-trust scores, while generosity does not follow a clear pattern.]
+Countries with higher GDP tend to have higher corruption-trust scores, while generosity does not follow a clear pattern aside from freedom.
 
 **5. Countries missing between consecutive years**
 - 2015 to 2016:   in 2015 but not 2016 : ['Central African Republic', 'Djibouti', 'Lesotho', 'Mozambique', 'Oman', 'Swaziland']
